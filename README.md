@@ -1,7 +1,7 @@
 <p align="center">
     <img src="/static/logo.png?v=0.1.0" width="240" />
     <h3 align="center">Pilgrim</h3>
-    <p align="center"></p>
+    <p align="center">A Lightweight And Powerful Control Panel, Set up in Minutes.</p>
     <p align="center">
         <a href="https://github.com/Clivern/Pilgrim/actions/workflows/build.yml">
             <img src="https://github.com/Clivern/Pilgrim/actions/workflows/build.yml/badge.svg">
