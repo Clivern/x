@@ -8,5 +8,8 @@
 # license that can be found in the LICENSE file.
 #
 
-class ApplicationController < ActionController::Base
+class Api::HealthController < ApiController
+  def index
+    render :json => {:status => "ok"}
+  end
 end

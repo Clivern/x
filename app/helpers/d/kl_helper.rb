@@ -1,0 +1,2 @@
+module D::KlHelper
+end
