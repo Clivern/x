@@ -11,7 +11,7 @@ jobs:
       fail-fast: false
       max-parallel: 4
       matrix:
-        ruby-version: [2.7.4, 3.0.2, 3.1.0]
+        ruby-version: [3.1.0, 3.1.2]
     steps:
       - uses: actions/checkout@v2
 
