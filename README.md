@@ -76,6 +76,6 @@ We are an open source, community-driven project so please feel free to join us. 
 
 ## License
 
-© 2021, Clivern. Released under [MIT License](https://opensource.org/licenses/mit-license.php).
+© 2020, Clivern. Released under [MIT License](https://opensource.org/licenses/mit-license.php).
 
 **Pilgrim** is authored and maintained by [@clivern](http://github.com/clivern).
