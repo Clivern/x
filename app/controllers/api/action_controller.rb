@@ -8,5 +8,5 @@
 # license that can be found in the LICENSE file.
 #
 
-class Api::LogsController < ApiController
+class Api::ActionController < ApiController
 end
