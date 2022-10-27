@@ -28,7 +28,7 @@ gem "stimulus-rails"
 gem "jbuilder"
 
 # sidekiq
-gem 'sidekiq', "~> 6.5"
+gem 'sidekiq', "~> 7.0"
 
 # Use Redis adapter to run Action Cable in production
 # gem "redis", "~> 4.0"
